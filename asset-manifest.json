@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/my-app/static/css/main.e87174ae.css",
+    "main.js": "/my-app/static/js/main.06e0a390.js",
+    "static/js/453.acca0757.chunk.js": "/my-app/static/js/453.acca0757.chunk.js",
+    "static/media/Daesung.jpg": "/my-app/static/media/Daesung.b6453a9fae9634c42d3e.jpg",
+    "index.html": "/my-app/index.html",
+    "main.e87174ae.css.map": "/my-app/static/css/main.e87174ae.css.map",
+    "main.06e0a390.js.map": "/my-app/static/js/main.06e0a390.js.map",
+    "453.acca0757.chunk.js.map": "/my-app/static/js/453.acca0757.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e87174ae.css",
+    "static/js/main.06e0a390.js"
+  ]
+}
